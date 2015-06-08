@@ -15,6 +15,9 @@ Source data (dependecy realtions collections) needed to generate indexes for web
 * Katya Ovchinnikova [<e.ovchinnikova@gmail.com>](mailto:e.ovchinnikova@gmail.com)
 * Vova Zaytsev [<zaytsev@usc.edu>](mailto:zaytsev@usc.edu)
 
+###Publication
+* Ovchinnikova, E., Zaytsev, V., Wertheim, S., Israel, R. (2014). Generating Conceptual Metaphors from Proposition Stores. arXiv preprint arXiv:1409.7619. [PDF](http://ovchinnikova.me/papers/OZWI.pdf)
+
 ###TODO
 * Add more description.
 * [Done] Add Russian and Spanish data.
